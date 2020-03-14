@@ -1,0 +1,27 @@
+.main{
+    width: 300px;
+    height: 550px;
+    margin: 0 auto;
+    text-align: center;
+    /* border: solid red; */
+    border-radius: 30px;
+    background-color: skyblue;
+}
+.top {color:blue;
+    font-size: 20px;
+    background-color: gray;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.end{font-size: 15px;}
+#para{width:100px;
+height:10px;
+background-color: white;
+border-radius: 10px;
+margin: 0 auto;}
+img { height: 200px;
+width: 200px;
+padding: 20px;
+border-radius: 30px;}
